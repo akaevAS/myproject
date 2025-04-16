@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aaa
+=======
+abc
+>>>>>>> conflict
